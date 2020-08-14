@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./src/navegacao/index.js",
     "name": "navegacao",
     "slug": "navegacao",
     "version": "1.0.0",
